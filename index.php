@@ -5,7 +5,6 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<p>lorem</p>
-	<p>lalala</p>
+<p>lore m</p>
 </body>
 </html>
