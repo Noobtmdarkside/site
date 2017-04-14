@@ -15,5 +15,6 @@
 >>>>>>> 51b7e578f53a46a8b63f7121d4c2e5e9ef13e11f
 	<p> 4 changes in index.php for commit 4</p>
 	<p> changes on remote repository</p>
+	<h2>changes on local rep.</h2>
 </body>
 </html>
