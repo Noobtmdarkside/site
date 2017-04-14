@@ -8,5 +8,6 @@
 	<h1>Site</h1>
 	<p> first step</p>
 	<p> new changes in index.php</p>
+	<p> second changes in index.php for commit 2</p>
 </body>
 </html>
